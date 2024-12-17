@@ -1,0 +1,4 @@
+[submodule "drivers/virtual-device"]
+	path = drivers/virtual-device
+	url = https://github.com/mirfatif/android-virtual-device-kernel-modules
+	branch = android15-6.6
